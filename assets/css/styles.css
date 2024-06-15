@@ -31,9 +31,10 @@ button{
     cursor: pointer;
     font-size: 1.25rem;
     font-weight: bold;
+    transition: all 0.5s ease-in-out;
 }
 
 button:hover{
-    background-color: rgb(215,205,255);
-    color: rgb(215, 205, 255);
+    background-color: rgb(205,25,255);
+    color: rgb(015, 205, 255);
 }
